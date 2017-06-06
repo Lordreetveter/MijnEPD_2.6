@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button2">Knopje</string>
+    <string name="alle_files">Alle bestanden</string>
+    <string name="toon_mappen">Toon mappen</string>
+
+    <string name="testString">TestTestTest</string>
+    <string name="testString2">Nog een test!!!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_voorpagina">Voorpagina</string>
+</resources>
